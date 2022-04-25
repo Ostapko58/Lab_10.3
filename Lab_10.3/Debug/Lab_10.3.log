@@ -1,0 +1,2 @@
+﻿LINK : fatal error LNK1168: не удается открыть E:\Навчання\Алгоритмізація і програмування\Lab_10.3\Debug\Lab_10.3.exe для записи
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1075,5): error MSB6006: "link.exe" завершилась с кодом 1168.
